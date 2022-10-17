@@ -1,5 +1,7 @@
-![Screenshot from 2022-10-17 19-57-29](https://user-images.githubusercontent.com/108860346/196203933-c08683b8-d4ee-4a27-b0a6-e4dbb455619d.png)
-![Screenshot from 2022-10-17 19-58-25](https://user-images.githubusercontent.com/108860346/196203978-3005fc79-8e33-4f67-9dc6-414fb2bdfef4.png)
+
+![UI_Sample0](https://user-images.githubusercontent.com/108860346/196208181-e3a98a3d-9249-47ae-b8a9-b9ca5f0f07e3.png)
+![UI_Sample1](https://user-images.githubusercontent.com/108860346/196208234-b8fe38bb-ab7d-4149-97ce-67a867309ac5.png)
+
 # youtubeui
 
 A new Flutter project.
